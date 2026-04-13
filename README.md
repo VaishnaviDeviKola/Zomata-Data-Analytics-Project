@@ -7,7 +7,7 @@ The objective of this project is to perform an in-depth analysis of Zomato resta
 
 ## Data Source
 
-The data for this project is sourced from [YouTube-Video-Notes Zomato Python Project](https://github.com/TheiScale/YouTube-Video-Notes/tree/main/Zomato_Python_Project).
+Zomato.csv
 
 ## Data Overview
 
